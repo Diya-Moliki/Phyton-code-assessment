@@ -1,4 +1,4 @@
-our previous Python 3 content is preserved below:
+# our previous Python 3 content is preserved below:
 # 
 # def say_hello():
 #     print('Hello, World')
